@@ -2,7 +2,7 @@
 
 This project is just me trying to mimic Minecraft in React.
 
-Demo: 
+Demo: https://lighthearted-crostata-c57f26.netlify.app/
 
 ## How to play?
 
